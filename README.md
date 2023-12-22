@@ -39,6 +39,4 @@ src="https://img.shields.io/twitter/follow/skkamal_hossain?logo=twitter&style=fo
 
 <a href="http://www.github.com/Sk-Kamal-Hossain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk-Kamal-Hossain&stroke=22c55e&background=000000&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="http://www.github.com/Sk-Kamal-Hossain"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sk-Kamal-Hossain&bg_color=000000&color=22c55e&line=ef4444&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Sk-Kamal-Hossain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&langs_count=10&title_color=ef4444&text_color=22c55e&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
