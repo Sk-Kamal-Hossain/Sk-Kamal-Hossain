@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/skkamal_hossain?logo=twitter&style=fo
 /></a>
 
 <h3 align="left">Support:</h3>
-<p><a href="http://buymeacoffee.com/skkamalhossain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skkamalhossain" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/skkamalhossain"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=skkamalhossain&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a></p><br><br>
 
 ### Skills
 
