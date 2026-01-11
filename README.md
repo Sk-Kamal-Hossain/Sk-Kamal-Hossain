@@ -10,7 +10,7 @@ sometimes I believe compiler ignores all my comments
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [My Website](https://skkamal.com/)
-* ✉️  You can contact me at [kamalhossainsk042@gmail.com](mailto:kamalhossainsk042@gmail.com)
+* ✉️  You can contact me at [skkamal.work@gmail.com](mailto:skkamal.work@gmail.com)
 * 🚀  I'm currently working on [JS Animation](http://sk-kamal-hossain.github.io/Animated-JS-Project-1/)
 * 🧠  I'm learning JS, Redux, React
 * 🤝  I'm open to collaborating on Other JS projects
