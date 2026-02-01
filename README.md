@@ -58,7 +58,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.app/?user=Sk-Kamal-Hossain&theme=tokyonight&hide_border=true&border_radius=10" width="91%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sk-Kamal-Hossain&theme=tokyo-night&hide_border=true&area=true" width="91%" />
 </div>
 
 <br/>
