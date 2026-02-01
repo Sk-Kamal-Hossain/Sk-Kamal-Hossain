@@ -50,9 +50,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" height="100%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="43%" />
 </div>
 
 <br/>
