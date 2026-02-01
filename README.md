@@ -1,47 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SK Kamal Hossain
-========================================================================================================================================
+<!-- HEADER -->
+<h1 align="center">
+  Hi 👋, I'm SK Kamal Hossain
+</h1>
 
-Web Developer and Designer
---------------------------
+<h3 align="center">
+  Web Developer • UI/UX Designer • JavaScript Enthusiast
+</h3>
 
-sometimes I believe compiler ignores all my comments
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [My Website](https://skkamal.com/)
-* ✉️  You can contact me at [skkamal.work@gmail.com](mailto:skkamal.work@gmail.com)
-* 🚀  I'm currently working on [JS Animation](http://sk-kamal-hossain.github.io/Animated-JS-Project-1/)
-* 🧠  I'm learning JS, Redux, React
-* 🤝  I'm open to collaborating on Other JS projects
-* ⚡  I'm secretly Batman... but don't tell anyone
-
-<a href="https://www.github.com/Sk-Kamal-Hossain" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sk-Kamal-Hossain?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.x.com/skkamal_hossain" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/skkamal_hossain?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
-/></a>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/skkamalhossain"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=skkamalhossain&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a></p><br><br>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=I+build+clean+and+scalable+web+apps;I+love+JavaScript+and+Animations;React+%7C+Redux+%7C+Laravel+%7C+Django;Sometimes+the+compiler+ignores+my+comments+😅" />
 </p>
 
+---
 
-### Socials
+<img align="right" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <a href="https://www.facebook.com/sk.kamal.1650/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Sk-Kamal-Hossain" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sk-kamal-hossain/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@skkamal01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/skkamal_hossain" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@sk_kamal09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+## 👨‍💻 About Me
 
-### Badges
+- 🌍 Based in **Bangladesh**
+- 🖥️ Portfolio: **[skkamal.com](https://skkamal.com/)**
+- ✉️ Email: **[skkamal.work@gmail.com](mailto:skkamal.work@gmail.com)**
+- 🚀 Currently working on **JavaScript Animations**
+- 🧠 Learning **Advanced JS, Redux & React**
+- 🤝 Open to collaboration on **Frontend & JS projects**
+- ⚡ Fun fact: *I’m secretly Batman… but shhh* 🦇
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Sk-Kamal-Hossain"><img src="https://github-readme-stats.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=22c55e&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Sk-Kamal-Hossain's GitHub stats" /></a>
+## 🔗 Connect With Me
 
-<a href="http://www.github.com/Sk-Kamal-Hossain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk-Kamal-Hossain&stroke=22c55e&background=000000&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<p align="left">
+  <a href="https://www.github.com/Sk-Kamal-Hossain">
+    <img src="https://img.shields.io/github/followers/Sk-Kamal-Hossain?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" />
+  </a>
+  <a href="https://www.x.com/skkamal_hossain">
+    <img src="https://img.shields.io/twitter/follow/skkamal_hossain?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000" />
+  </a>
+</p>
 
-<a href="https://github.com/Sk-Kamal-Hossain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&langs_count=10&title_color=ef4444&text_color=22c55e&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,php,laravel,python,django,nodejs,express" />
+</p>
+
+### 🎨 Frontend & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery" />
+</p>
+
+### 🛢️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,googlecloud" />
+</p>
+
+### ⚙️ Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,photoshop,illustrator" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&count_private=true&bg_color=000000&title_color=ef4444&text_color=22c55e&icon_color=ef4444&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sk-Kamal-Hossain&background=000000&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&bg_color=000000&title_color=ef4444&text_color=22c55e&hide_border=true" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/skkamalhossain">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:22c55e&height=100&section=footer"/>
+</p>
