@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
-    <td align="right" valign="middle" width="50%">
+    <td align="center" valign="middle" width="50%">
       <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td>
   </tr>
