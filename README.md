@@ -90,6 +90,6 @@
   <a href="https://www.buymeacoffee.com/skkamalhossain"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<p align="center">
+<p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=100&section=footer" />
 </p>
