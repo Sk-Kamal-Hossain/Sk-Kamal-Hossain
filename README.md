@@ -1,7 +1,7 @@
 # Hi there, I'm SK Kamal Hossain 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=435&lines=Web+Developer+and+Designer;JS+Animation+Wizard;Secretly+Batman...;Learning+React+and+Redux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=435&lines=Web+Developer+and+Designer;SK+Kamal+Hossain;Secretly+Batman...;Learning+React+and+Redux" alt="Typing SVG" />
 </p>
 
 ---
