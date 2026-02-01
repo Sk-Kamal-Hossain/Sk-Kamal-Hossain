@@ -85,8 +85,8 @@
   <a href="https://www.facebook.com/sk.kamal.1650/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/skkamalhossain">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <a href="https://skkamal.com/">
+    <img src="https://img.shields.io/badge/Website-EF4444?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
