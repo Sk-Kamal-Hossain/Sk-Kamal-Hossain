@@ -11,8 +11,8 @@
   </div>
 
   <div align="left">
-    ---
-    ### 🛠️ Tech Stack & Skills
+
+  ### 🛠️ Tech Stack & Skills
 
   <p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,7 +29,8 @@
   </p>
   </div>
 </div>
----
+
+    ---
 
 ### 📊 GitHub Activity & Stats
 
