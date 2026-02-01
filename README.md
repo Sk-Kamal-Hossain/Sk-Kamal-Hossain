@@ -72,7 +72,7 @@
 ### 🐍 Contribution Snake Game
 
 
-<div align="center">
+<div align="center" width="100%">
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
