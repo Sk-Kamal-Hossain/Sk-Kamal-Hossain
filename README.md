@@ -10,25 +10,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌍 **Location:** Based in Bangladesh
-- 🚀 **Current Focus:** Crafting [JS Animations](http://sk-kamal-hossain.github.io/Animated-JS-Project-1/)
-- 🧠 **Learning Path:** Masterminding React, Redux, and Next.js
-- 🤝 **Collaboration:** Open for innovative JS projects
-- ✉️ **Contact:** [skkamal.work@gmail.com](mailto:skkamal.work@gmail.com)
-- 🦇 **Top Secret:** I'm secretly Batman... but the compiler still ignores my comments.
-
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sk-Kamal-Hossain&theme=radical&margin-w=15&margin-h=15&column=4" alt="github trophies" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
