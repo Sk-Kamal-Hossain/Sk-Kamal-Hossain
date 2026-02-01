@@ -64,7 +64,6 @@
 ### 🐍 Contribution Snake Game
 
 
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -79,12 +78,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-------------
-
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=Sk-Kamal-Hossain&grid_color=%2330363d&point_color=%23ef4444" alt="snake" />
-</p>
 
 ---
 
