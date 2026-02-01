@@ -50,12 +50,13 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk-Kamal-Hossain&theme=tokyonight" width="700" />
+  <img src="https://streak-stats.demolab.com/?user=Sk-Kamal-Hossain&theme=tokyonight" width="700" />
 </p>
 
 ---
