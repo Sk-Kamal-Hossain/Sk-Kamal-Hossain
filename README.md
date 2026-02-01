@@ -11,6 +11,7 @@
   </div>
 
   <div align="left">
+    ---
     ### 🛠️ Tech Stack & Skills
 
   <p align="left">
