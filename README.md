@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sk-Kamal-Hossain&theme=onedark&no-frame=true&column=4" alt="github trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sk-Kamal-Hossain&theme=radical&margin-w=15&margin-h=15&column=4" alt="github trophies" />
   </a>
 </p>
 
