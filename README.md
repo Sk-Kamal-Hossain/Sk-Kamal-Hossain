@@ -75,7 +75,7 @@
 
 ### 📱 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sk-kamal-hossain/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
