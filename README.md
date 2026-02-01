@@ -30,7 +30,7 @@
   </div>
 </div>
 
-    ---
+---
 
 ### 📊 GitHub Activity & Stats
 
