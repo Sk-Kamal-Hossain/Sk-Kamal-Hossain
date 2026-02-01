@@ -49,15 +49,23 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sk-Kamal-Hossain&layout=compact&theme=tokyonight" width="300" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sk-Kamal-Hossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sk-Kamal-Hossain&theme=tokyonight" width="700" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.app/?user=Sk-Kamal-Hossain&theme=tokyonight&hide_border=true&border_radius=10" width="91%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sk-Kamal-Hossain&theme=tokyonight" width="91%" />
+</div>
 
 ---
 
